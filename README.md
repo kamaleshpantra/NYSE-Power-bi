@@ -39,14 +39,10 @@ Below are screenshots of the Power BI dashboard showcasing key visualizations an
    ![ESG Ranking Dashboard](ESG_Investment.png)  
    *Description*: Displays the distribution of ESG rankings across investments.
 
-3. **EPS on Sector**  
+2. **EPS on Sector**  
    ![ROA Trends](EPS.png)  
    *Description*: Shows the EPS Ratio over different sectors.
 
-4. **water fall analysis**  
+3. **water fall analysis**  
    ![Volatility Dashboard](waterfall_analysis.png)  
    *Description*: Highlights amount patterns.
-
-5. **Interactive Filters and Slicers**  
-   ![Filters and Slicers](screenshots/filters_slicers.png)  
-   *Description*: Demonstrates the interactive features for dynamic analysis.
