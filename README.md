@@ -36,6 +36,7 @@ This project analyzes 400,000 simulated NYSE investments over a 10-year period, 
 Below are screenshots of the Power BI dashboard showcasing key visualizations and insights from the NYSE Investment Analysis.
 1. **stock amount overviwe**
    ![stock amount](screenshots/analysis.png)
+   
    *Description*: Displays the story of amount of stocks.
    
 2. **ESG Ranking Overview**  
