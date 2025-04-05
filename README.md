@@ -34,15 +34,18 @@ This project analyzes 400,000 simulated NYSE investments over a 10-year period, 
 
 ## Dashboard Screenshots
 Below are screenshots of the Power BI dashboard showcasing key visualizations and insights from the NYSE Investment Analysis.
-
-1. **ESG Ranking Overview**  
+1. **stock amount overviwe**
+   ![stock amount](screenshots/analysis.png)
+   *Description*: Displays the story of amount of stocks.
+   
+2. **ESG Ranking Overview**  
    ![ESG Ranking Dashboard](screenshots/ESG_Investment.png)  
    *Description*: Displays the distribution of ESG rankings across investments.
 
-2. **EPS on Sector**  
+3. **EPS on Sector**  
    ![ROA Trends](screenshots/EPS.png)  
    *Description*: Shows the EPS Ratio over different sectors.
 
-3. **water fall analysis**  
+4. **water fall analysis**  
    ![Volatility Dashboard](screenshots/waterfall_analysis.png)  
    *Description*: Highlights amount patterns.
